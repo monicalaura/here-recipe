@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/monicalaura/here-recipe/static/css/main.caaba3cc.chunk.css",
+    "main.js": "/monicalaura/here-recipe/static/js/main.78bc2cf2.chunk.js",
+    "main.js.map": "/monicalaura/here-recipe/static/js/main.78bc2cf2.chunk.js.map",
+    "runtime-main.js": "/monicalaura/here-recipe/static/js/runtime-main.f93c08b3.js",
+    "runtime-main.js.map": "/monicalaura/here-recipe/static/js/runtime-main.f93c08b3.js.map",
+    "static/js/2.f1bd237c.chunk.js": "/monicalaura/here-recipe/static/js/2.f1bd237c.chunk.js",
+    "static/js/2.f1bd237c.chunk.js.map": "/monicalaura/here-recipe/static/js/2.f1bd237c.chunk.js.map",
+    "index.html": "/monicalaura/here-recipe/index.html",
+    "precache-manifest.d28d5c0db6d54464da6c87633a3ead4f.js": "/monicalaura/here-recipe/precache-manifest.d28d5c0db6d54464da6c87633a3ead4f.js",
+    "service-worker.js": "/monicalaura/here-recipe/service-worker.js",
+    "static/css/main.caaba3cc.chunk.css.map": "/monicalaura/here-recipe/static/css/main.caaba3cc.chunk.css.map"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.f93c08b3.js",
+    "static/js/2.f1bd237c.chunk.js",
+    "static/css/main.caaba3cc.chunk.css",
+    "static/js/main.78bc2cf2.chunk.js"
+  ]
+}
