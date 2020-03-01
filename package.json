@@ -1,5 +1,6 @@
 {
   "name": "here-recipe",
+  "homepage":"https://github.com/monicalaura/here-recipe",   
   "version": "0.1.0",
   "private": true,
   "dependencies": {

@@ -1,0 +1,16 @@
+.recipe {
+ border-radius: 10px;
+ box-shadow: 0 5px 20px rgb(71,71,71);
+ margin:20px;
+ display:flex;
+ flex-direction:column;
+ justify-content:space-around;
+ background-image: linear-gradient(to top, #cfd9df 0%, #e2ebf0 100%);
+ width:40%;
+ padding:5px;
+}
+@media only screen and (max-width: 600px) {
+  .recipe{
+    width: 100%;
+  }
+}

@@ -11,3 +11,64 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, "Courier New",
     monospace;
 }
+.App{
+  min-height:100vh;
+  background-image: linear-gradient(to top, #fbc2eb 0%, #a6c1ee 100%);
+}
+
+.tagline{
+  color:#ffffff;
+  margin:0;
+  margin-bottom: 40px;
+  padding: 0;
+  padding-top: 20px;
+}
+.search-form{
+  min-height:10vh;
+  display:flex;
+  justify-content:center;
+  align-items: center;
+
+}
+input.search-bar{
+  width: 50%;
+  height: 3rem;
+  border: none;
+  font-size: 1.4rem;
+  color: #63717f;
+  padding:10px;
+  -webkit-border-radius: 5px;
+  -moz-border-radius: 5px;
+  border-radius: 5px;
+}
+
+.search-button{
+  width:15%;
+  height: 4.3rem;
+  background-image: linear-gradient(120deg, #a6c0fe 0%, #f68084 100%);
+  color:#ffffff;
+  font-size:1.3rem;
+  border-left:none;
+  -webkit-border-radius: 5px;
+  -moz-border-radius: 5px;
+  border-radius: 5px;
+}
+.recipes{
+  display:flex;
+  justify-content:space-around;
+  flex-wrap:wrap;
+  margin-top:25px;
+}
+
+ul{
+  list-style-type:none;
+}
+img{
+  margin-top:10px;
+}
+
+@media only screen and (max-width: 600px) {
+  .search-button{
+    font-size:1rem;
+  }
+}
